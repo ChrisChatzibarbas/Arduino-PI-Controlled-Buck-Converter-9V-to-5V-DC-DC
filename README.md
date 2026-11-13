@@ -63,7 +63,7 @@ Improving the grounding arrangement eliminated the observed ADC spikes in the di
 - ADC-based voltage measurement
 - Hardware debugging and grounding techniques
 
-## Project Status
+# Project Status
 
 Hardware implementation and firmware development completed.
 
