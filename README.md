@@ -70,5 +70,5 @@ Hardware implementation and firmware development completed.
 ## Tools
 
 LTspice · Arduino IDE · C++ · Digital Multimeter
-
+##
 This project was made during the fourth year of my Electrical and Computer Engineering studies at the Aristotle University of Thessaloniki.
